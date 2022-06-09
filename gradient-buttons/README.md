@@ -1,5 +1,5 @@
 # Gradient Buttons
-Spice up your Discord buttons with gradients!
+Spice up your Discord buttons with gradients.
 
 ## Importing
 ```css

@@ -1,0 +1,44 @@
+:root {
+    /* || HSL Accent Values */
+    --message-mentioned: 38, calc(var(--saturation-factor,1) * 96%), 54%;
+    --message-replying: 235, calc(var(--saturation-factor,1) * 86%), 65%;
+    --message-ephemeral: 235, calc(var(--saturation-factor,1) * 86%), 65%;
+    /* || Advanced Coloring */
+    --message-mentioned-indicator: hsl(var(--message-mentioned));
+    --message-mentioned-background: hsla(var(--message-mentioned), 0.1);
+    --message-mentioned-background-hover: hsla(var(--message-mentioned), 0.08);
+    --message-replying-indicator: hsl(var(--message-replying));
+    --message-replying-background: hsla(var(--message-replying), 0.05);
+    --message-replying-background-hover: hsla(var(--message-replying), 0.1);
+    --message-ephemeral-indicator: hsl(var(--message-ephemeral));
+    --message-ephemeral-background: hsla(var(--message-ephemeral), 0.05);
+    --message-ephemeral-background-hover: hsla(var(--message-ephemeral), 0.1);
+}
+
+.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv {
+    background-color: var(--message-mentioned-background);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv:hover {
+    background-color: var(--message-mentioned-background-hover);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv::before {
+    background-color: var(--message-mentioned-indicator);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z {
+    background-color: var(--message-replying-background);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z:hover {
+    background-color: var(--message-replying-background-hover);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z::before {
+    background-color: var(--message-replying-indicator);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn {
+    background-color: var(--message-ephemeral-background);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn:hover {
+    background-color: var(--message-ephemeral-background-hover);
+}
+.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn::before {
+    background-color: var(--message-ephemeral-indicator);
+}
