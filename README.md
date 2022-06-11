@@ -39,7 +39,7 @@ If you're having an issue with any of the snippets, feel free to join the [suppo
 </details>
 
 <details>
-<summary><b>Grtadient Buttons</b></summary>
+<summary><b>Gradient Buttons</b></summary>
 
 ```scss
 @import url('https://discord-extensions.github.io/snippets/gradient-buttons/gradient-buttons.css');
