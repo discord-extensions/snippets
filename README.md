@@ -6,6 +6,20 @@ If you're having an issue with any of the snippets, feel free to join the [suppo
 
 ## Imports
 <details>
+<summary><b>Bottom Bar</b></summary>
+
+```scss
+@import url('https://discord-extensions.github.io/snippets/bottom-bar/source.css');
+
+:root {
+    --bar-height: 80px;
+    --bar-background: var(--background-tertiary);
+}
+```
+</details>
+
+
+<details>
 <summary><b>Custom Message Colors</b></summary>
 
 ```scss
