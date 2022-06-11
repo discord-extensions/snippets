@@ -9,7 +9,7 @@ If you're having an issue with any of the snippets, feel free to join the [suppo
 <summary><b>Custom Message Colors</b></summary>
 
 ```scss
-@import url('https://discord-extensions.github.io/snippets/custom-message-colors/custom-message-colors.css');
+@import url('https://discord-extensions.github.io/snippets/custom-message-colors/source.css');
 
 :root {
     /* || HSL Accent Values */
@@ -42,7 +42,7 @@ If you're having an issue with any of the snippets, feel free to join the [suppo
 <summary><b>Gradient Buttons</b></summary>
 
 ```scss
-@import url('https://discord-extensions.github.io/snippets/gradient-buttons/gradient-buttons.css');
+@import url('https://discord-extensions.github.io/snippets/gradient-buttons/source.css');
 
 :root {
     /* || Gradients */
@@ -69,6 +69,6 @@ If you're having an issue with any of the snippets, feel free to join the [suppo
 <summary><b>Windows Titlebar</b></summary>
 
 ```scss
-@import url('https://discord-extensions.github.io/snippets/windows-titlebar/windows-titlebar.css');
+@import url('https://discord-extensions.github.io/snippets/windows-titlebar/source.css');
 ```
 </details>
