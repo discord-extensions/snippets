@@ -11,6 +11,9 @@
     height: var(--bar-height);
     background-color: var(--bar-background);
 }
+.container-1eFtFS .withTagAsButton-OsgQ9L, .container-1eFtFS .withTagless-10ooWt {
+    max-width: 120px !important;
+}
 .container-1eFtFS .chat-2ZfjoI {
     background-color: var(--bar-background);
 }

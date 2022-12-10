@@ -12,10 +12,6 @@
    "liveSassCompile.settings.autoprefix": [
        "defaults"
     ],
-
-    "liveSassCompile.settings.excludeList": [
-        "/dev.scss",
-    ],
 }
 
 // expanded
