@@ -15,30 +15,30 @@
     --message-ephemeral-background-hover: hsla(var(--message-ephemeral), 0.1);
 }
 
-.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv {
+.messageListItem__050f9 .message_ccca67.mentioned_fa6fd2 {
     background-color: var(--message-mentioned-background);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv:hover {
+.messageListItem__050f9 .message_ccca67.mentioned_fa6fd2.selected_e3bc5d, .messageListItem__050f9 .message_ccca67.mentioned_fa6fd2:hover {
     background-color: var(--message-mentioned-background-hover);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.mentioned-Tre-dv::before {
+.messageListItem__050f9 .message_ccca67.mentioned_fa6fd2::before {
     background-color: var(--message-mentioned-indicator);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z {
+.messageListItem__050f9 .message_ccca67.replying__38514 {
     background-color: var(--message-replying-background);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z:hover {
+.messageListItem__050f9 .message_ccca67.replying__38514.selected_e3bc5d, .messageListItem__050f9 .message_ccca67.replying__38514:hover {
     background-color: var(--message-replying-background-hover);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.replying-eZ7p5z::before {
+.messageListItem__050f9 .message_ccca67.replying__38514::before {
     background-color: var(--message-replying-indicator);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn {
+.messageListItem__050f9 .message_ccca67.ephemeral_eb5d84 {
     background-color: var(--message-ephemeral-background);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn.selected-2LX7Jy, .messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn:hover {
+.messageListItem__050f9 .message_ccca67.ephemeral_eb5d84.selected_e3bc5d, .messageListItem__050f9 .message_ccca67.ephemeral_eb5d84:hover {
     background-color: var(--message-ephemeral-background-hover);
 }
-.messageListItem-ZZ7v6g .message-2CShn3.ephemeral-2nDdnn::before {
+.messageListItem__050f9 .message_ccca67.ephemeral_eb5d84::before {
     background-color: var(--message-ephemeral-indicator);
 }

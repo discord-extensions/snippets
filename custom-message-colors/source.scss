@@ -18,10 +18,10 @@
     --message-ephemeral-background-hover: hsla(var(--message-ephemeral), 0.1);
 }
 
-.messageListItem-ZZ7v6g {
-    .message-2CShn3.mentioned-Tre-dv {
+.messageListItem__050f9 {
+    .message_ccca67.mentioned_fa6fd2 {
         background-color: var(--message-mentioned-background);
-        &.selected-2LX7Jy,
+        &.selected_e3bc5d,
         &:hover {
             background-color: var(--message-mentioned-background-hover);
         }
@@ -29,9 +29,9 @@
             background-color: var(--message-mentioned-indicator);
         }
     }
-    .message-2CShn3.replying-eZ7p5z {
+    .message_ccca67.replying__38514 {
         background-color: var(--message-replying-background);
-        &.selected-2LX7Jy,
+        &.selected_e3bc5d,
         &:hover {
             background-color: var(--message-replying-background-hover);
         }
@@ -39,9 +39,9 @@
             background-color: var(--message-replying-indicator);
         }
     }
-    .message-2CShn3.ephemeral-2nDdnn {
+    .message_ccca67.ephemeral_eb5d84 {
         background-color: var(--message-ephemeral-background);
-        &.selected-2LX7Jy,
+        &.selected_e3bc5d,
         &:hover {
             background-color: var(--message-ephemeral-background-hover);
         }
