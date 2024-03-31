@@ -3,34 +3,34 @@
     --bar-background: var(--background-tertiary);
 }
 
-.container-1eFtFS {
+.container_d1f8f5 {
     // || Sidebar
-    .sidebar-1tnWFu {
+    .sidebar_e031be {
         margin-bottom: var(--bar-height);
-        .container-YkUktl {
+        .container_debb33 {
             position: absolute;
             height: var(--bar-height);
             background-color: var(--bar-background);
         }
     }
     // || User Area
-    .withTagAsButton-OsgQ9L, .withTagless-10ooWt {
+    .withTagAsButton_e22174, .withTagless__058f8 {
         max-width: 120px !important;
     }
     // || Chat
-    .chat-2ZfjoI {
+    .chat__52833 {
         background-color: var(--bar-background);
-        .chatContent-3KubbW {
+        .chatContent_f087cb {
             background-color: var(--background-primary);
         }
-        .content-1jQy2l {
+        .content__01e65 {
             background-color: var(--bar-background);
         }
-        .homeContainer-r4Hvv1  {
+        .homeContainer__73533  {
             background-color: var(--background-secondary-alt);
         }
         // || Text Area
-        .form-3gdLxP {
+        .form_d8a4a1 {
             margin: 0;
             padding-top: calc((var(--bar-height) - 44px) / 2);
             padding-bottom: calc((var(--bar-height) - 44px) / 2);
@@ -38,31 +38,31 @@
             &::before {
                 content: none;
             }
-            .channelTextArea-1FufC0 {
+            .channelTextArea_c2094b {
                 margin: 0;
                 background-color: transparent;
             }
         }
         // || Members
-        .membersWrap-3NUR2t {
+        .membersWrap__5ca6b {
             height: 100%;
             background-color: var(--bar-background);
-            .members-3WRCEx {
+            .members__573eb {
                 margin-bottom: var(--bar-height);
             }
         }
     }
-    .content-1jQy2l {
+    .content__01e65 {
         background-color: var(--bar-background);
     }
     // || Misc Margin
-    .container-2cd8Mz,
+    .container_bd15da,
     .container-36u7Lw,
-    .applicationStore-2nk7Lo,
-    .homeContainer-r4Hvv1,
+    .applicationStore__444b9,
+    .homeContainer__73533,
     .container-3wLKDe,
-    .pageWrapper-2PwDoS,
-    .searchResultsWrap-5RVOkx {
+    .pageWrapper_c182d3,
+    .searchResultsWrap__2e184 {
         margin-bottom: var(--bar-height);
     }
 }
