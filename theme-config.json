@@ -1,0 +1,11 @@
+{
+    "name": "snippets",
+    "metas": {
+        "betterdiscord": "./meta.json"
+    },
+    "dist": {
+    },
+    "dev": {
+        "mod": "vencord"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"name": "snippets",
+	"author": "LuckFire",
+	"version": "0.0.1d",
+	"scripts": {
+		"dev": "theme-scss dev"
+	},
+	"devDependencies": {
+		"theme-scss": "^1.1.4"
+	}
+}

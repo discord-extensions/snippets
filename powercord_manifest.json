@@ -1,8 +1,0 @@
-{
-    "name": "Snippets",
-    "description": "SCSS & CSS snippets.",
-    "version": "0.0.1d",
-    "author": "LuckFire#4800",
-    "theme": "./dev.scss",
-    "license": "WTFPL"
-}
