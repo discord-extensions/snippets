@@ -1,2 +1,5 @@
+node_modules/
 bd-compile/
+
+pnpm-lock.yaml
 dev.css
